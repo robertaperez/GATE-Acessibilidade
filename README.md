@@ -1,5 +1,5 @@
 # GATE-Acessibilidade
-Cômputo de Medidas de Acessibilidade - GATE (UFABC) 26/11
+Cômputo de Medidas de Acessibilidade - GATE (UFABC) 26/11/21
 
 Descrição do cômputo das medidas no script
 
